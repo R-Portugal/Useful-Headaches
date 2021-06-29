@@ -1,0 +1,7 @@
+C:\Users\rober\source\repos\fitness console app\fitness console app\bin\Debug\fitness console app.exe.config
+C:\Users\rober\source\repos\fitness console app\fitness console app\bin\Debug\fitness console app.exe
+C:\Users\rober\source\repos\fitness console app\fitness console app\bin\Debug\fitness console app.pdb
+C:\Users\rober\source\repos\fitness console app\fitness console app\obj\Debug\fitness console app.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\fitness console app\fitness console app\obj\Debug\fitness console app.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\fitness console app\fitness console app\obj\Debug\fitness console app.exe
+C:\Users\rober\source\repos\fitness console app\fitness console app\obj\Debug\fitness console app.pdb
